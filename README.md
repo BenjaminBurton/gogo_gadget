@@ -1,6 +1,6 @@
 # Project gogogadget
 
-One Paragraph of project description goes here
+This project was deployed using Go Blueprint, a powerful framework that streamlined the development and deployment process. Leveraging Go Blueprint's modular architecture and built-in tools, the project benefits from efficient code organization, seamless dependency management, and robust performance. The deployment process was simplified with its integrated support for containerization and cloud-native environments, ensuring scalability and reliability. For more details on Go Blueprint, visit its official documentation.
 
 ## Getting Started
 
@@ -62,4 +62,4 @@ Clean up binary from the last build:
 make clean
 ```
 
-# gogo_gadget
+## gogo_gadget
